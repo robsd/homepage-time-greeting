@@ -1,5 +1,5 @@
 # homepage-time-greeting
-Time of day based greeting for Homepage [](https://gethomepage.dev)
+Time of day based greeting for [Homepage](https://gethomepage.dev/)
 
 ## Instructions
 
